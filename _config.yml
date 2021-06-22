@@ -20,8 +20,8 @@ resume_contact_email:           "train981316@gmail.com"
 resume_contact_telephone:       "(+886)910146025"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-# resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Taipei, Taiwan • (+886)910146025 • train981316@gmail.com"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I'm a software engineer interested in dealing with big data and distributed systems. I mainly code in Scala and</p>"
 

@@ -164,13 +164,13 @@
   .resume-item-copy,
   .resume-item-list {
     a {
-      color: #333;
+      color: $navy-blue;// #9c9c9c;
       text-decoration: none;
       border-bottom: 1px solid;
 
       &:hover {
         border-bottom: none;
-        color: #9c9c9c;
+        color: #2044e0; // #333;
       }
     }
   }
