@@ -7,11 +7,12 @@
 }
 
 html {
-  background: $blue-gray;
+  background: $white;
 }
 
 body{
   @include serif;
+  background-color: $blue-gray;
   color: $text_color;
   font-size: 16px;
   line-height: 1.5;
