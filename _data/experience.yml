@@ -3,7 +3,7 @@
 - company: Vpon Big Data Group
   position: Data Engineer
   duration: Aug, 2018 &mdash; Oct, 2020
-  summary: Implement ETL pipelines with Apache Spark and Google Dataflow to perform batch transformation of various kinds of source <ul class="resume-item-list"><li>Migrate Data Warehouse from AWS hadoop to GCP BigQuery</li><li>Aggregated 40726 gzipped CSVs in one ETL job, output 6B rows to BigQuery</li><li>Implement Akka-http(Scala) server endpoints for Vpon’s data product</li></ul>
+  summary: Implement ETL pipelines with Apache Spark and Google Dataflow for batch transformation of heterogenous sources <ul class="resume-item-list"><li>Migrate Data Warehouse from AWS hadoop to GCP BigQuery</li><li>Aggregated 40726 gzipped CSVs in one ETL job, output 6B rows to BigQuery</li><li>Implement Akka-http(Scala) server endpoints for Vpon’s data product</li></ul>
 
 # Data Quality Manager
 - company: Largitdata

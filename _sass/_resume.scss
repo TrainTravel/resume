@@ -203,7 +203,17 @@
 @media print {
   .no-print { display: none !important }
   .print-only { display: block !important }
-  body { font-size: 12px; line-height: 1rem; }
+  // a[href*='//']:after {
+  //   content:" (" attr(href) ") ";
+  //   color: $navy-blue;
+  // }
+  body { 
+    width: 8.25in;
+    height: 11.75in;
+    margin: 0 0 0 0;
+    font-size: 12px;
+    line-height: 1rem; 
+  }
   .page-header { padding: 1rem 0 .2rem;
     .header-name {
       @include sans_bold;
@@ -235,4 +245,23 @@
       }
     }
   }
+
+  .title-bar {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    vertical-align: middle;
+    overflow: hidden;
+  }
+  .icon-links {
+      display: inline-block;
+      position: absolute;
+      padding-bottom: 100%;
+      vertical-align: right;
+
+      top: 0;
+      left: 0;
+  }
+
 }
