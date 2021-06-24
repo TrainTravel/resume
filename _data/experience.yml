@@ -3,13 +3,13 @@
 - company: Vpon Big Data Group
   position: Data Engineer
   duration: Aug, 2018 &mdash; Oct, 2020
-  summary: Implement ETL pipelines with Apache Spark and Google Dataflow for batch transformation of heterogenous sources <ul class="resume-item-list"><li>Migrate Data Warehouse from AWS hadoop to GCP BigQuery</li><li>Aggregated 40726 gzipped CSVs in one ETL job, output 6B rows to BigQuery</li><li>Implement Akka-http(Scala) server endpoints for Vpon’s data product</li></ul>
+  summary: Implemented ETL pipelines with Apache Spark and Google Dataflow for batch transformation of heterogenous sources <ul class="resume-item-list"><li>Migrated Data Warehouse from AWS hadoop to GCP BigQuery</li><li>Aggregated 40726 gzipped CSVs in one ETL job, output 6B rows to BigQuery</li><li>Implemented Akka-http(Scala) server endpoints for Vpon’s data product</li></ul>
 
 # Data Quality Manager
 - company: Largitdata
   position: Data Quality Manager
   duration: Sept, 2017 &mdash; Sept, 2018
-  summary: Monitor health of all crawlers, and maintain data integrity of company's social-listening product. <ul class="resume-item-list"><li>Wrote and maintained Python crawlers of lots of source websites</li><li>Implemented a monitoring system using Flask and InfluxDB to monitor health and data integrity of all crawlers.</li></ul>
+  summary: Created a simple monitoring system in Python, Flask and InfluxDB to monitor health all crawlers and maintain data integrity of company's social-listening product. <ul class="resume-item-list"><li>Wrote and maintained Python crawlers of lots of source websites</li><li>Implemented a monitoring system using Flask and InfluxDB to monitor health and data integrity of all crawlers.</li></ul>
 
 # Python Crawler Intern
 - company: Largitdata
